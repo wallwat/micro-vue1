@@ -16,7 +16,7 @@
     "url": "https://github.com/wallwat/micro-vue1/issues"
   },
   "sofe": {
-    "url": "https://github.com/wallwat/micro-vue1"
+    "url": "https://raw.githubusercontent.com/wallwat/micro-vue1/master/singleSpaEntry.js"
   },
   "homepage": "https://github.com/wallwat/micro-vue1#readme"
 }
