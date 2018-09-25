@@ -1,0 +1,22 @@
+{
+  "name": "micro-vue1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "singleSpaEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallwat/micro-vue1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallwat/micro-vue1/issues"
+  },
+  "sofe": {
+    "url": "https://github.com/wallwat/micro-vue1"
+  },
+  "homepage": "https://github.com/wallwat/micro-vue1#readme"
+}
